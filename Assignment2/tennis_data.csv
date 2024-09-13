@@ -1,0 +1,15 @@
+Outlook,Temperature,Humidity,Wind,Play Tennis,,,,,,,,,,
+Sunny,Hot,High,Weak,No,,,Sunny,2,,,2,1,0,0
+Sunny,Hot,High,Strong,No,,,Overcast,0,,,0,2,0,0
+Overcast,Hot,High,Weak,Yes,,,Rainy,1,,,,,,
+Rainy,Mild,High,Weak,Yes,,,,,,,,,,
+Rainy,Cool,Normal,Weak,Yes,,,Hot,1,,,,,,
+Rainy,Cool,Normal,Strong,No,,,Cool,0,,,,,,
+Overcast,Cool,Normal,Strong,Yes,,,Mild,2,,,,,,
+Sunny,Mild,High,Weak,No,,,,,,,,,,
+Sunny,Cool,Normal,Weak,Yes,,,High,0,,,,,,
+Rainy,Mild,Normal,Weak,Yes,,,Normal,1,,,,,,
+Sunny,Mild,Normal,Strong,Yes,,,,,,,,,,
+Overcast,Mild,High,Strong,Yes,,,Weak,1,,,,,,
+Overcast,Hot,Normal,Weak,Yes,,,Strong,0,,,,,,
+Rainy,Mild,High,Strong,No,,,,,,,,,,
